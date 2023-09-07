@@ -1,1 +1,2 @@
-# secret-pass
+# SECRETS
+Don't keep your secrets, share them anonymously!
